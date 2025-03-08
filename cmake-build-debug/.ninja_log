@@ -1,0 +1,6 @@
+# ninja log v6
+15	617	7631375008210381	build.ninja	84ee3bcb6e8ad9f0
+4	887	7631375159018348	CMakeFiles/life_management.dir/main.cpp.obj	be07c2bd8ff154fe
+890	1311	7631375167878887	life_management.exe	32566d1df926a658
+6	1414	7631376231483708	CMakeFiles/life_management.dir/main.cpp.obj	be07c2bd8ff154fe
+1416	1572	7631376245590297	life_management.exe	32566d1df926a658

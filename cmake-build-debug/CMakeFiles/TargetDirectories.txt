@@ -1,0 +1,3 @@
+C:/Users/Ola/CLionProjects/life_management/cmake-build-debug/CMakeFiles/life_management.dir
+C:/Users/Ola/CLionProjects/life_management/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ola/CLionProjects/life_management/cmake-build-debug/CMakeFiles/rebuild_cache.dir
